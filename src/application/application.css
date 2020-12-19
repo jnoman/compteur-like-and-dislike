@@ -1,0 +1,24 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.button {
+    -fx-pref-width: 200px;
+    -fx-pref-height:  100px;
+    -fx-font-size: 18px;
+    -fx-content-display : top;
+}
+.button-dislike {
+    -fx-background-color: #e66a6a;
+}
+.button-like {
+    -fx-background-color: #c0d6e4;
+}
+
+.label{
+	-fx-text-fill : #034d54;
+	-fx-font-weight: bold;
+}
+.label-compteur{
+	-fx-font-size: 30px;
+}
+.label-resultat{
+	-fx-font-size: 14px;
+}
